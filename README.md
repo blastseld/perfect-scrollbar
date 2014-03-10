@@ -75,7 +75,8 @@ perfect-scrollbar supports optional parameters.
 
 ### wheelSpeed
 The scroll speed applied to mousewheel event.  
-**Default: 10**
+**Default: 1**  
+Default: 10 for perfect-scrollbar &lt;= 0.4.8
 
 ### wheelPropagation
 If this option is true, when the scroll reach the end of the side, mousewheel event will be propagated to parent element.  
